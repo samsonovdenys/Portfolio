@@ -185,7 +185,6 @@ div.loaded:after {
       position: absolute;
       top: 0;
       left: 0;
-      background: rgba(200, 200, 200, 0.5);
       transition: opacity 0.5s ease;
     }
   }
@@ -404,9 +403,9 @@ div.loaded:after {
     p {
       line-height: 20px;
       font-size: 12px;
-      
+
       text-align: left;
-      a{
+      a {
         color: white;
       }
     }
